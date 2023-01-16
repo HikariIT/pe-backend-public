@@ -8,7 +8,7 @@ const config: DBConfig = {
     HOST: DB_HOST!,
     USER: DB_USERNAME!,
     PASSWORD: DB_PASSWORD!,
-    DB: "ddqcmkcltsm787",
+    DB: "d6hekqp71tb4v9",
     dialect: "postgres",
     pool: {
         max: 5,
